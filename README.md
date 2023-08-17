@@ -34,8 +34,10 @@
 
 <!--
 #### Others
+- ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
 - ![Heroku](https://camo.githubusercontent.com/bbcb920b109566607cd766e1ea6f5e6ab1dffe519ac8b6d2ff3563984234526a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4865726f6b752d3041314132463f7374796c653d666c6174266c6f676f3d6865726f6b75)
 - ![AWS](https://camo.githubusercontent.com/f5247e60cdc3cd327cab4e2fdb27702e528a72031cd2f66af1040915d93231cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6177732d3041314132463f7374796c653d666c6174266c6f676f3d617773)
+
 - *Termux*
 
 #### 📫 Want to say `bonjour`?
